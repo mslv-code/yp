@@ -25,12 +25,6 @@ h1 {
     -webkit-text-stroke: 1px rgb(0, 0, 0);
 }
 
-/* Правило для движения радуги */
-@keyframes rainbow {
-    to {
-        background-position: 200% center;
-    }
-}
 ul li {
     list-style-type: "Не точка";
     font-size: 18px;
@@ -81,10 +75,11 @@ ul li {
     border: 3px dashed purple;
     margin: 50px;
     padding: 10px;
+    background-color: #57555380;
 }
 
 #child2 {
     border: 3px double black;
     margin: 30px;
-    padding: 10px;
+    padding: 20px;
 }

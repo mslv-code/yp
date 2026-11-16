@@ -7,6 +7,7 @@ body {
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
+     text-align: center;
 }
 
 div {
@@ -82,4 +83,22 @@ ul li {
     border: 3px double black;
     margin: 30px;
     padding: 20px;
+}
+
+#span1 {
+    border: 2px solid rgb(238, 255, 0);
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+#span2 {
+    border: 3px solid rgb(255, 1, 234);
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+#span3 {
+    border: 3px solid rgb(0, 204, 255);
+    background-color: #FFFFFF;
+    text-align: center;
 }
